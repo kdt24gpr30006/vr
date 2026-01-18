@@ -46111,6 +46111,7 @@ GameObject:
   - component: {fileID: 5406960576657963724}
   - component: {fileID: 5406960576657963723}
   - component: {fileID: 5406960576657963722}
+  - component: {fileID: 5406960576657963725}
   m_Layer: 0
   m_Name: iphone12mini
   m_TagString: Untagged
@@ -46743,6 +46744,27 @@ MonoBehaviour:
       UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
     _objectReferences:
     - {fileID: 5977194127182856280}
+--- !u!65 &5406960576657963725
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4630458340630945907}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 2.5, y: 1, z: 5}
+  m_Center: {x: 0, y: 0, z: 0}
 --- !u!23 &5407490564996985140
 MeshRenderer:
   m_ObjectHideFlags: 0
