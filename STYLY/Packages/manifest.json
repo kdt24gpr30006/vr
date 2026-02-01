@@ -1,6 +1,7 @@
 {
   "dependencies": {
     "com.styly.package-collection-spatial-layer": "1.1.2",
+    "com.styly.styly-spatial-layer-plugin": "0.6.3",
     "com.unity.cloud.draco.webgl-2023": "1.0.0",
     "com.unity.cloud.ktx.webgl-2023": "1.0.1",
     "com.unity.collab-proxy": "2.9.3",
@@ -67,7 +68,8 @@
         "com.vrmc.vrmshaders",
         "jp.keijiro.osc-jack",
         "jp.keijiro.osc-jack.visualscripting",
-        "org.khronos.unitygltf"
+        "org.khronos.unitygltf",
+        "com.styly.styly-spatial-layer-plugin"
       ]
     }
   ]
